@@ -1,0 +1,158 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-1{
+    background-color: #F7F6F4;
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;  
+    color: darkslategrey; 
+    height: 50px;
+    align-items: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.nav-1a{
+    list-style-type: none;
+    display: flex;
+    font-size: small;
+    gap: 40px;
+    margin-left: 60px;
+    
+    
+}
+.nav-1b{
+    display: flex;
+    margin-left: 550px;
+    font-size: small;
+    list-style-type: none;
+    gap: 60px;
+    align-items: center;
+}
+
+.Main-nav{
+    background-color: #ECE8D9;
+    height: 380px;
+    display: flex;
+    position: sticky;
+    margin-left: 200px;
+    margin-right: 200px
+
+}
+.Prints1{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.Quality{
+    font-size: 50px;
+    font-family: sans-serif;
+    color: #384A62;
+}
+.Shipped{
+    font-size: 15px;
+}
+.Main-nav1{
+    display: flex;
+    list-style-type: none;
+    margin-left: 1px;
+    gap: 20px;
+    margin-top: 30px;
+    font-size: smaller;
+    margin-right: 10px;
+}
+#Search{
+    width: 500px;
+    height: 60px;
+    font-size: small;
+    
+
+}
+
+.hand{
+    width: 370px;
+    margin-left: 201px;
+    margin-top: 18px;
+}
+
+#carouselExampleAutoplaying{
+    background-color: pink;
+    height: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.cardss{
+    margin-left: 100px;
+    display: flex;
+    gap: 20px;
+
+}
+.cardss1{
+    margin-left: 100px;
+    display: flex;
+    gap: 20px;
+    
+}
+
+.cardss2{
+    display: flex;
+    margin-left: 100px;
+    gap: 20px;
+}
+
+.nigeria{
+    margin-left: 250px;
+    font-size: 50px;
+    margin-right: 100px;
+    
+}
+
+#count1{
+    margin-left:250px ;
+}
+
+.count{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    
+}
+
+.footer1{
+    background-color: #F7F6F4;
+    height: 300px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.notice{
+    margin-top: 10px;
+}
+
+.footer2{
+    background-color: #384A62;
+    height: 400px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.footer3{
+    background-color: #CBCAC8;
+    height: 60px;
+    margin-left: 200px;
+    margin-right: 200px;
+       
+}
+
+#copyright{
+    margin-left: 400px;
+    margin-bottom: 20px;
+    
+
+}
+
+
+
